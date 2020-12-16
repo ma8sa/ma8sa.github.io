@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 Working on ADAS for Siemens , earlier researcher in Robotics Research Centre, IIITH Hyderabad. currently focused on merging computer vision and mobile robtotics with deep learning.
 
-
+[Resume](/assets/pdf/Thesis.pdf). 
 
